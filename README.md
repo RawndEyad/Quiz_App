@@ -9,15 +9,15 @@ Welcome to the **Flutter Quiz App** – a simple and elegant app that helps you 
 
 Home Screen 
 
-![Home Page](https://github.com/user-attachments/assets/25ebe7ca-9acf-48ac-93e2-21a98cff2920)
+<img src="https://github.com/user-attachments/assets/25ebe7ca-9acf-48ac-93e2-21a98cff2920" width="300" />
 
 Question Screen     
 
-![Question Page](https://github.com/user-attachments/assets/d3e56648-09b1-4b98-8630-760e058d0a16)
+<img src="https://github.com/user-attachments/assets/d3e56648-09b1-4b98-8630-760e058d0a16" width="300" />
 
 Result Screen
 
-![Result Page](https://github.com/user-attachments/assets/adf9aff1-2665-4d29-94f7-c620143cb75b)
+<img src="https://github.com/user-attachments/assets/adf9aff1-2665-4d29-94f7-c620143cb75b" width="300" />
 
 ---
 
